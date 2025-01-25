@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  CatFacts
+
+  Created by SOHAM PAUL on 25/01/25.
+  
+*/
+
+
+"no_fact_available" = "Sorry, no cat fact available at the moment.";
+"failed_to_load_content" = "Oops! Something went wrong while loading the content.";
+"failed_to_load_image" = "Unable to load cat image. Please try again later.";
+"network_error" = "Network error. Please check your internet connection.";
+"decoding_error" = "Failed to process the data. Please try again later.";
+

@@ -8,7 +8,7 @@ Cat Facts is an iOS application developed using UIKit that provides users with r
 	•	UIKit
 
 ##  Screenshots
-<table> <tr> <td>Cat Facts</td> <td>Cat Image</td> </tr> <tr> <td><img src="https://example.com/cat_facts_image" width=75% height=75%></td> <td><img src="https://example.com/cat_image" width=75% height=75%></td> </tr> </table>
+<table> <tr> <td>Cat Facts</td> <td>Cat Facts</td> </tr> <tr> <td><img src="https://example.com/cat_facts_image" width=100% height=100%></td> <td><img src="https://example.com/cat_image" width=75% height=75%></td> </tr> </table>
 
 ##  Usage
 	•	Launch the app to view a random cat fact and image.
